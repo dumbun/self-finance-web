@@ -10,7 +10,7 @@ export default function Home() {
           alt="Vamshi krishna self-finance"
           src={logo}
         />
-        <h1 className="text-5xl">Comming Soon</h1>
+        <h1 className="text-5xl">Coming Soon</h1>
       </div>
     </main>
   );
